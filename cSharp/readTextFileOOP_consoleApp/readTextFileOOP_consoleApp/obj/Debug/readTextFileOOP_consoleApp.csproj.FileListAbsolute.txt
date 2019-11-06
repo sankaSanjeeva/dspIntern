@@ -1,0 +1,7 @@
+c:\users\dsp\source\repos\readTextFileOOP_consoleApp\readTextFileOOP_consoleApp\bin\Debug\readTextFileOOP_consoleApp.exe.config
+c:\users\dsp\source\repos\readTextFileOOP_consoleApp\readTextFileOOP_consoleApp\bin\Debug\readTextFileOOP_consoleApp.exe
+c:\users\dsp\source\repos\readTextFileOOP_consoleApp\readTextFileOOP_consoleApp\bin\Debug\readTextFileOOP_consoleApp.pdb
+c:\users\dsp\source\repos\readTextFileOOP_consoleApp\readTextFileOOP_consoleApp\obj\Debug\readTextFileOOP_consoleApp.csprojAssemblyReference.cache
+c:\users\dsp\source\repos\readTextFileOOP_consoleApp\readTextFileOOP_consoleApp\obj\Debug\readTextFileOOP_consoleApp.csproj.CoreCompileInputs.cache
+c:\users\dsp\source\repos\readTextFileOOP_consoleApp\readTextFileOOP_consoleApp\obj\Debug\readTextFileOOP_consoleApp.exe
+c:\users\dsp\source\repos\readTextFileOOP_consoleApp\readTextFileOOP_consoleApp\obj\Debug\readTextFileOOP_consoleApp.pdb

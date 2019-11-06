@@ -1,0 +1,10 @@
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\bin\Debug\insertUpdateDeleteSelectData.exe.config
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\bin\Debug\insertUpdateDeleteSelectData.exe
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\bin\Debug\insertUpdateDeleteSelectData.pdb
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\obj\Debug\insertUpdateDeleteSelectData.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\obj\Debug\insertUpdateDeleteSelectData.Properties.Resources.resources
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\obj\Debug\insertUpdateDeleteSelectData.csproj.GenerateResource.cache
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\obj\Debug\insertUpdateDeleteSelectData.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\obj\Debug\insertUpdateDeleteSelectData.exe
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\obj\Debug\insertUpdateDeleteSelectData.pdb
+C:\Users\DSP\source\repos\insertUpdateDeleteSelectData\insertUpdateDeleteSelectData\obj\Debug\insertUpdateDeleteSelectData.form.resources

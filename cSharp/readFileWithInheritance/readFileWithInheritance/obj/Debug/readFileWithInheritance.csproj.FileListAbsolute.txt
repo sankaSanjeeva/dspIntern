@@ -1,0 +1,7 @@
+C:\Users\DSP\source\repos\readFileWithInheritance\readFileWithInheritance\bin\Debug\readFileWithInheritance.exe.config
+C:\Users\DSP\source\repos\readFileWithInheritance\readFileWithInheritance\bin\Debug\readFileWithInheritance.exe
+C:\Users\DSP\source\repos\readFileWithInheritance\readFileWithInheritance\bin\Debug\readFileWithInheritance.pdb
+C:\Users\DSP\source\repos\readFileWithInheritance\readFileWithInheritance\obj\Debug\readFileWithInheritance.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\readFileWithInheritance\readFileWithInheritance\obj\Debug\readFileWithInheritance.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\readFileWithInheritance\readFileWithInheritance\obj\Debug\readFileWithInheritance.exe
+C:\Users\DSP\source\repos\readFileWithInheritance\readFileWithInheritance\obj\Debug\readFileWithInheritance.pdb

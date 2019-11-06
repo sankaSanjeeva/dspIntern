@@ -1,0 +1,10 @@
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\bin\Debug\StudentDetails.exe.config
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\bin\Debug\StudentDetails.exe
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\bin\Debug\StudentDetails.pdb
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\obj\Debug\StudentDetails.Properties.Resources.resources
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.GenerateResource.cache
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\obj\Debug\StudentDetails.exe
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\obj\Debug\StudentDetails.pdb
+C:\Users\DSP\source\repos\StudentDetails\StudentDetails\obj\Debug\StudentDetails.Student_details.resources

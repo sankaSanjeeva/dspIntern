@@ -1,0 +1,7 @@
+C:\Users\DSP\source\repos\mvcDogExample\mvcDogExample\bin\Debug\mvcDogExample.exe.config
+C:\Users\DSP\source\repos\mvcDogExample\mvcDogExample\bin\Debug\mvcDogExample.exe
+C:\Users\DSP\source\repos\mvcDogExample\mvcDogExample\bin\Debug\mvcDogExample.pdb
+C:\Users\DSP\source\repos\mvcDogExample\mvcDogExample\obj\Debug\mvcDogExample.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\mvcDogExample\mvcDogExample\obj\Debug\mvcDogExample.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\mvcDogExample\mvcDogExample\obj\Debug\mvcDogExample.exe
+C:\Users\DSP\source\repos\mvcDogExample\mvcDogExample\obj\Debug\mvcDogExample.pdb

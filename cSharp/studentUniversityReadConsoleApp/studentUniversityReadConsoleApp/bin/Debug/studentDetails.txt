@@ -1,0 +1,8 @@
+sanka,sanjeeva,S555,25,175,50
+udara,madura,H348,23,170,55
+sadisha,nishara,D984,25,180,60
+pramuka,weerasigha,H789,26,160,45
+ravihansa,bandara,S778,25,170,55
+janesh,madushanka,S333,26,170,45
+nuwan,kumara,S789,22,168,60
+chathura,maduaranya,H987,27,165,45

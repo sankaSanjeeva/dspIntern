@@ -1,0 +1,7 @@
+C:\Users\DSP\source\repos\CalApp\CalApp\bin\Debug\CalApp.exe.config
+C:\Users\DSP\source\repos\CalApp\CalApp\bin\Debug\CalApp.exe
+C:\Users\DSP\source\repos\CalApp\CalApp\bin\Debug\CalApp.pdb
+C:\Users\DSP\source\repos\CalApp\CalApp\obj\Debug\CalApp.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\CalApp\CalApp\obj\Debug\CalApp.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\CalApp\CalApp\obj\Debug\CalApp.exe
+C:\Users\DSP\source\repos\CalApp\CalApp\obj\Debug\CalApp.pdb

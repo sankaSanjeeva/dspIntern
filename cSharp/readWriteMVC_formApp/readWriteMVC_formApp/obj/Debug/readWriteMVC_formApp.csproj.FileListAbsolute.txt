@@ -1,0 +1,10 @@
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\bin\Debug\readWriteMVC_formApp.exe.config
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\bin\Debug\readWriteMVC_formApp.exe
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\bin\Debug\readWriteMVC_formApp.pdb
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\obj\Debug\readWriteMVC_formApp.csprojAssemblyReference.cache
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\obj\Debug\readWriteMVC_formApp.Form1.resources
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\obj\Debug\readWriteMVC_formApp.Properties.Resources.resources
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\obj\Debug\readWriteMVC_formApp.csproj.GenerateResource.cache
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\obj\Debug\readWriteMVC_formApp.csproj.CoreCompileInputs.cache
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\obj\Debug\readWriteMVC_formApp.exe
+c:\users\dsp\source\repos\readWriteMVC_formApp\readWriteMVC_formApp\obj\Debug\readWriteMVC_formApp.pdb

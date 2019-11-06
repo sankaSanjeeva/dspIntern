@@ -1,0 +1,7 @@
+c:\users\dsp\source\repos\studentUniversityReadConsoleApp\studentUniversityReadConsoleApp\bin\Debug\studentUniversityReadConsoleApp.exe.config
+c:\users\dsp\source\repos\studentUniversityReadConsoleApp\studentUniversityReadConsoleApp\bin\Debug\studentUniversityReadConsoleApp.exe
+c:\users\dsp\source\repos\studentUniversityReadConsoleApp\studentUniversityReadConsoleApp\bin\Debug\studentUniversityReadConsoleApp.pdb
+c:\users\dsp\source\repos\studentUniversityReadConsoleApp\studentUniversityReadConsoleApp\obj\Debug\studentUniversityReadConsoleApp.csprojAssemblyReference.cache
+c:\users\dsp\source\repos\studentUniversityReadConsoleApp\studentUniversityReadConsoleApp\obj\Debug\studentUniversityReadConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\dsp\source\repos\studentUniversityReadConsoleApp\studentUniversityReadConsoleApp\obj\Debug\studentUniversityReadConsoleApp.exe
+c:\users\dsp\source\repos\studentUniversityReadConsoleApp\studentUniversityReadConsoleApp\obj\Debug\studentUniversityReadConsoleApp.pdb

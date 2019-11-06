@@ -1,0 +1,7 @@
+C:\Users\DSP\source\repos\minMaxPointsOfCurve\minMaxPointsOfCurve\bin\Debug\minMaxPointsOfCurve.exe.config
+C:\Users\DSP\source\repos\minMaxPointsOfCurve\minMaxPointsOfCurve\bin\Debug\minMaxPointsOfCurve.exe
+C:\Users\DSP\source\repos\minMaxPointsOfCurve\minMaxPointsOfCurve\bin\Debug\minMaxPointsOfCurve.pdb
+C:\Users\DSP\source\repos\minMaxPointsOfCurve\minMaxPointsOfCurve\obj\Debug\minMaxPointsOfCurve.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\minMaxPointsOfCurve\minMaxPointsOfCurve\obj\Debug\minMaxPointsOfCurve.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\minMaxPointsOfCurve\minMaxPointsOfCurve\obj\Debug\minMaxPointsOfCurve.exe
+C:\Users\DSP\source\repos\minMaxPointsOfCurve\minMaxPointsOfCurve\obj\Debug\minMaxPointsOfCurve.pdb
